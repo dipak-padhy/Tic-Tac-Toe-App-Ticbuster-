@@ -1,6 +1,10 @@
-# game_tic_tac
+# Ticbuster
 
-A new Flutter project.
+Ticbuster delivers a sleek Tic Tac Toe experience with two modes: Classic for timeless play, and Countdown for an adrenaline-fueled race against time. The sleek UI ensures a seamless and enjoyable gaming experience for both casual and competitive.
+
+## Video Drive Link
+
+https://drive.google.com/file/d/1yS5Penlt7-lHR25i32IeMvy3mif6P0mY/view?usp=drive_link
 
 ## Getting Started
 
